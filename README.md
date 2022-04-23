@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-<img src=https://i.imgur.com/Q8UeA57.png>
+<img src=https://i.imgur.com/vwKsur5.jpeg>
 </p>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+AMRUSIR+WA+BOT+REPO;CREATED+BY+AMRU+SIR;THIS+IS+A+USERBOT+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATHERS)](https://git.io/typing-svg)
@@ -32,12 +32,12 @@
 
 ## Click Instagram logo to any doubt contact me👇
 
- [![ANY DOUBT REFER IT](https://i.imgur.com/OnPjBJ7.png)](https://instagram.com/its_me_dron)
+ [![ANY DOUBT REFER IT](https://i.imgur.com/vwKsur5.jpeg)](https://instagram.com/its_me_dron)
 
 
  
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ABUOP1/AMRU-SER-QR?v=1)
-<img src=https://i.imgur.com/LTQumgu.jpeg>
+<img src=https://i.imgur.com/vwKsur5.jpeg>
 ☝️THIS PROBLEM SOLVED 
 # Follow this rules no error will come
 1. Click [SCAN](https://replit.com/@ABUOP1/AMRU-SER-QR?v=1) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
